@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+canvas {
+  display: block;
+}
+footer{
+  position: fixed;
+  bottom: 0;
+  margin-left: -0.5;
+}
